@@ -1,5 +1,7 @@
-title: tonic-starter
-description: ""
+title: Milan's theme
+description: "
+A simple, clean, and responsive theme for Jekyll. It is designed to be easy to use and customize, with a focus on readability and accessibility. The theme is built with HTML5 and CSS3, and is fully responsive, making it look great on all devices. It also includes support for syntax highlighting, social media links, and a variety of layout options.
+ The theme is perfect for personal blogs, portfolios, and small business websites. It is easy to set up and customize, with a variety of options for colors, fonts, and layouts. The theme is also optimized for search engines, making it easy for your content to be found online."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
